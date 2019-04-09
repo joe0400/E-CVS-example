@@ -41,29 +41,28 @@ class information{
 		this.toggle = false;
 		this.date = date;
 		this.number = number;
-		this.viewName = function viewName(){	return this.name;};
-	this.viewInfo = function viewInfo(){	return this.information;};
-	this.viewVotes = function viewVotes(){	return this.total_votes;};
-	this.viewDescr = function viewDescr(){	return this.description_text;};
-	this.viewUser = function viewUser(){	return this.username;};
-	this.viewDate = function viewDate(){	return this.date;};
+		this.viewName = function (){	return this.name;};
+		this.viewInfo = function (){	return this.information;};
+		this.viewVotes = function (){	return this.total_votes;};
+		this.viewDescr = function (){	return this.description_text;};
+		this.viewUser = function (){	return this.username;};
+		this.viewDate = function (){	return this.date;};
 
-	this.increment = function increment(){
-		if(this.toggle)
-			this.total_votes--;
-		else
-			this.total_votes++;
-		this.toggle = !this.toggle;
-		document.getElementById(this.number.toString()).innerHTML = Number(this.viewVotes()/attributors).toLocaleString(undefined,{style: 'percent', minimumFractionDigits:2});
-	};
+		this.increment = function (){
+			if(this.toggle)
+				this.total_votes--;
+			else
+				this.total_votes++;
+			this.toggle = !this.toggle;
+			document.getElementById("n"+this.number.toString()).innerHTML = Number(this.viewVotes()/attributors).toLocaleString(undefined,{style: 'percent', minimumFractionDigits:2});
+		};
 	
-	this.generate = function generate(){
-		var vr = Number(this.viewVotes()/attributors).toLocaleString(undefined,{style: 'percent', minimumFractionDigits:2});
-		var dat = "<li class=\"list-group-item\"><div class=\"d-flex w-100 justify-content-between\"><h5 class=\"mb-1\">%s</h5><small class=\"text-right text-nowrap\">%s days ago <u class=\"text-warning\" id=\"%s\" style=\"text-decoration: none !important;\">%s</u></small></div><small> @%s </small><p class=\"mb-1\">%s</p><div class=\"btn-group float-right\" role=\"group\" aria-label=\"Support\"><button type=\"button\" class=\"btn btn-primary\" data-toggle=\"button\" onclick=\"info[%s].increment()\" aria-pressed=\"false\" autocomplete=\"off\">Support</button></div></li>";
-	dat = parse(dat,this.name,this.date.toString(),this.number.toString(),vr.toString(),this.username,this.description_text,number.toString());
-		document.getElementById("inner lists").innerHTML += dat;
+		this.generate = function (){
+			var vr = Number(this.viewVotes()/attributors).toLocaleString(undefined,{style: 'percent', minimumFractionDigits:2});
+			var dat = "<li class=\"list-group-item\"><div class=\"d-flex w-100 justify-content-between\"><h5 class=\"mb-1\">%s</h5><small class=\"text-right text-nowrap\">%s days ago <u class=\"text-warning\" id=\"n%s\" style=\"text-decoration: none !important;\">%s</u></small></div><small> @%s </small><p class=\"mb-1\">%s</p><div class=\"btn-group float-right\" role=\"group\" aria-label=\"Support\"><button type=\"button\" class=\"btn btn-primary\" data-toggle=\"button\" onclick=\"info[%s].increment()\" aria-pressed=\"false\" autocomplete=\"off\" id=\"b%s\">Support</button></div></li>";
+			document.getElementById("inner lists").innerHTML +=  parse(dat,this.name,this.date.toString(),this.number.toString(),vr.toString(),this.username,this.description_text,number.toString(),"b"+number.toString());
 
-	};
+		};
 		info.push(this);
 		this.generate();
 		number++;
@@ -73,4 +72,5 @@ class information{
 for(var i = 0;i<5;i++){
 	new information(names[i],loremIpsum,tvotes[i],loremIpsum,usernames[i],dates[i]);
 }
+
 
