@@ -1,0 +1,598 @@
+<li class="nav-item active"><a class="nav-link" href="#ACT I
+">ACT I
+<\a><\li>
+<li class="nav-item "><a class="nav-link" href="#ACT II
+">ACT II
+<\a><\li><li class="nav-item"><a class="nav-link" href="#ACT III
+">ACT III
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT IV
+">ACT IV
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT V
+">ACT V
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT I
+">ACT I
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT II.
+">ACT II.
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT III.
+">ACT III.
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT IV.
+">ACT IV.
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT V.
+">ACT V.
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT I. SCENE I. Alexandria. CLEOPATRA'S palace
+">ACT I. SCENE I. Alexandria. CLEOPATRA'S palace
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT II. SCENE I. Messina. POMPEY'S house
+">ACT II. SCENE I. Messina. POMPEY'S house
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT_2|SC_7
+">ACT_2|SC_7
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT_3|SC_1
+">ACT_3|SC_1
+<\a><\li><li class="nav-item "><a class="nav-link" href="#                     ACT III. SCENE I.
+">                     ACT III. SCENE I.
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT_3|SC_2
+">ACT_3|SC_2
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT_3|SC_3
+">ACT_3|SC_3
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT_3|SC_4
+">ACT_3|SC_4
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT_3|SC_5
+">ACT_3|SC_5
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT_3|SC_6
+">ACT_3|SC_6
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT_3|SC_7
+">ACT_3|SC_7
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT_3|SC_8
+">ACT_3|SC_8
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT_3|SC_9
+">ACT_3|SC_9
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT_3|SC_10
+">ACT_3|SC_10
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT_3|SC_11
+">ACT_3|SC_11
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT_3|SC_12
+">ACT_3|SC_12
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT_3|SC_13
+">ACT_3|SC_13
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT_4|SC_1
+">ACT_4|SC_1
+<\a><\li><li class="nav-item "><a class="nav-link" href="#                      ACT IV. SCENE I.
+">                      ACT IV. SCENE I.
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT_4|SC_2
+">ACT_4|SC_2
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT_4|SC_3
+">ACT_4|SC_3
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT_4|SC_4
+">ACT_4|SC_4
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT_4|SC_5
+">ACT_4|SC_5
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT_4|SC_6
+">ACT_4|SC_6
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT_4|SC_7
+">ACT_4|SC_7
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT_4|SC_8
+">ACT_4|SC_8
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT_4|SC_9
+">ACT_4|SC_9
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT_4|SC_10
+">ACT_4|SC_10
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT_4|SC_11
+">ACT_4|SC_11
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT_4|SC_12
+">ACT_4|SC_12
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT_4|SC_13
+">ACT_4|SC_13
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT_4|SC_14
+">ACT_4|SC_14
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT_4|SC_15
+">ACT_4|SC_15
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT_5|SC_1
+">ACT_5|SC_1
+<\a><\li><li class="nav-item "><a class="nav-link" href="#                       ACT V. SCENE I.
+">                       ACT V. SCENE I.
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT_5|SC_2
+">ACT_5|SC_2
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT I. SCENE I. Orchard of OLIVER'S house
+">ACT I. SCENE I. Orchard of OLIVER'S house
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT II. SCENE I. The Forest of Arden
+">ACT II. SCENE I. The Forest of Arden
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT III. SCENE I. The palace
+">ACT III. SCENE I. The palace
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT IV. SCENE I. The forest
+">ACT IV. SCENE I. The forest
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT V. SCENE I. The forest
+">ACT V. SCENE I. The forest
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT I. SCENE 1
+">ACT I. SCENE 1
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT II. SCENE 1
+">ACT II. SCENE 1
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT III. SCENE 1
+">ACT III. SCENE 1
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT IV. SCENE 1
+">ACT IV. SCENE 1
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT V. SCENE 1
+">ACT V. SCENE 1
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT I. SCENE I. Rome. A street
+">ACT I. SCENE I. Rome. A street
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT II. SCENE I. Rome. A public place
+">ACT II. SCENE I. Rome. A public place
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT III. SCENE I. Rome. A street
+">ACT III. SCENE I. Rome. A street
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT IV. SCENE I. Rome. Before a gate of the city
+">ACT IV. SCENE I. Rome. Before a gate of the city
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT V. SCENE I. Rome. A public place
+">ACT V. SCENE I. Rome. A public place
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT I. SCENE I. Britain. The garden of CYMBELINE'S palace
+">ACT I. SCENE I. Britain. The garden of CYMBELINE'S palace
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT II. SCENE I. Britain. Before CYMBELINE'S palace
+">ACT II. SCENE I. Britain. Before CYMBELINE'S palace
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT III. SCENE I. Britain. A hall in CYMBELINE'S palace
+">ACT III. SCENE I. Britain. A hall in CYMBELINE'S palace
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT IV. SCENE I. Wales. Near the cave of BELARIUS
+">ACT IV. SCENE I. Wales. Near the cave of BELARIUS
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT V. SCENE I. Britain. The Roman camp
+">ACT V. SCENE I. Britain. The Roman camp
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT I
+">ACT I
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT II
+">ACT II
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT III
+">ACT III
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT IV
+">ACT IV
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT V
+">ACT V
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT I
+">ACT I
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT II
+">ACT II
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT III
+">ACT III
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT IV
+">ACT IV
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT V
+">ACT V
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT I
+">ACT I
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT II
+">ACT II
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT III
+">ACT III
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT IV
+">ACT IV
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT V
+">ACT V
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT I. SCENE I. Warkworth. Before NORTHUMBERLAND'S Castle
+">ACT I. SCENE I. Warkworth. Before NORTHUMBERLAND'S Castle
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT II. SCENE I. London. A street
+">ACT II. SCENE I. London. A street
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT III. SCENE I. Westminster. The palace
+">ACT III. SCENE I. Westminster. The palace
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT IV. SCENE I. Yorkshire. Within the Forest of Gaultree
+">ACT IV. SCENE I. Yorkshire. Within the Forest of Gaultree
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT V. SCENE I. Gloucestershire. SHALLOW'S house
+">ACT V. SCENE I. Gloucestershire. SHALLOW'S house
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT I. SCENE I. London. An ante-chamber in the KING'S palace
+">ACT I. SCENE I. London. An ante-chamber in the KING'S palace
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT II. PROLOGUE.
+">ACT II. PROLOGUE.
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT III. PROLOGUE.
+">ACT III. PROLOGUE.
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT IV. PROLOGUE.
+">ACT IV. PROLOGUE.
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT V. PROLOGUE.
+">ACT V. PROLOGUE.
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT I. SCENE 1.
+">ACT I. SCENE 1.
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT II. SCENE 1.
+">ACT II. SCENE 1.
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT III. SCENE 1.
+">ACT III. SCENE 1.
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT IV. SCENE 1.
+">ACT IV. SCENE 1.
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT V. SCENE 1.
+">ACT V. SCENE 1.
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT I. SCENE I. London. The palace
+">ACT I. SCENE I. London. The palace
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT II. SCENE I. Saint Albans
+">ACT II. SCENE I. Saint Albans
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT III. SCENE I. The Abbey at Bury St. Edmunds
+">ACT III. SCENE I. The Abbey at Bury St. Edmunds
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT IV. SCENE I. The coast of Kent
+">ACT IV. SCENE I. The coast of Kent
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT V. SCENE I. Fields between Dartford and Blackheath
+">ACT V. SCENE I. Fields between Dartford and Blackheath
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT I. SCENE I. London. The Parliament House
+">ACT I. SCENE I. London. The Parliament House
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT II. SCENE I. A plain near Mortimer's Cross in Herefordshire
+">ACT II. SCENE I. A plain near Mortimer's Cross in Herefordshire
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT III. SCENE I. A chase in the north of England
+">ACT III. SCENE I. A chase in the north of England
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT IV. SCENE I. London. The palace
+">ACT IV. SCENE I. London. The palace
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT V. SCENE I. Coventry
+">ACT V. SCENE I. Coventry
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT I. SCENE 1.
+">ACT I. SCENE 1.
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT I. SCENE 2.
+">ACT I. SCENE 2.
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT I. SCENE 3.
+">ACT I. SCENE 3.
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT I. SCENE 4.
+">ACT I. SCENE 4.
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT II. SCENE 1.
+">ACT II. SCENE 1.
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT II. SCENE 2.
+">ACT II. SCENE 2.
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT II. SCENE 3.
+">ACT II. SCENE 3.
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT II. SCENE 4.
+">ACT II. SCENE 4.
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT III. SCENE 1.
+">ACT III. SCENE 1.
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT III.SCENE 2.
+">ACT III.SCENE 2.
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT IV. SCENE 1.
+">ACT IV. SCENE 1.
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT IV. SCENE 2.
+">ACT IV. SCENE 2.
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT V. SCENE 1.
+">ACT V. SCENE 1.
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT V. SCENE 2.
+">ACT V. SCENE 2.
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT V. SCENE 3.
+">ACT V. SCENE 3.
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT V. SCENE 4.
+">ACT V. SCENE 4.
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT V. SCENE 5.
+">ACT V. SCENE 5.
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT I. SCENE 1
+">ACT I. SCENE 1
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT II. SCENE 1
+">ACT II. SCENE 1
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT III. SCENE 1.
+">ACT III. SCENE 1.
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT IV. SCENE 1.
+">ACT IV. SCENE 1.
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT V. SCENE 1. England. KING JOHN'S palace
+">ACT V. SCENE 1. England. KING JOHN'S palace
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT I
+">ACT I
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT II
+">ACT II
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT III
+">ACT III
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT IV
+">ACT IV
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT V
+">ACT V
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT I
+">ACT I
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT II
+">ACT II
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT III
+">ACT III
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT IV
+">ACT IV
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT V
+">ACT V
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT I
+">ACT I
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT II
+">ACT II
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT III
+">ACT III
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT IV
+">ACT IV
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT V
+">ACT V
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT I
+">ACT I
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT II
+">ACT II
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT III
+">ACT III
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT IV
+">ACT IV
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT V
+">ACT V
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT I. SCENE I. Navarre. The King's park
+">ACT I. SCENE I. Navarre. The King's park
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT II. SCENE II. The park
+">ACT II. SCENE II. The park
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT III. SCENE I. The park
+">ACT III. SCENE I. The park
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT IV. SCENE I. The park
+">ACT IV. SCENE I. The park
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT V. SCENE I. The park
+">ACT V. SCENE I. The park
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT I
+">ACT I
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT II
+">ACT II
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT III
+">ACT III
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT IV
+">ACT IV
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT V
+">ACT V
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT I
+">ACT I
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT II
+">ACT II
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT III
+">ACT III
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT IV
+">ACT IV
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT V
+">ACT V
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT I. SCENE I. The DUKE'S palace
+">ACT I. SCENE I. The DUKE'S palace
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT II. Scene I. A hall in ANGELO'S house
+">ACT II. Scene I. A hall in ANGELO'S house
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT III. SCENE I. The prison
+">ACT III. SCENE I. The prison
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT IV. Scene I. The moated grange at Saint Duke's
+">ACT IV. Scene I. The moated grange at Saint Duke's
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT V. SCENE I. The city gate
+">ACT V. SCENE I. The city gate
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT I
+">ACT I
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT II
+">ACT II
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT III
+">ACT III
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT IV
+">ACT IV
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT V
+">ACT V
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT I
+">ACT I
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT II
+">ACT II
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT III
+">ACT III
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT IV
+">ACT IV
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT V
+">ACT V
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT I. SCENE 1.
+">ACT I. SCENE 1.
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT II. SCENE 1.
+">ACT II. SCENE 1.
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT III SCENE 1.
+">ACT III SCENE 1.
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT IV. SCENE I.
+">ACT IV. SCENE I.
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT V. SCENE 1.
+">ACT V. SCENE 1.
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT I
+">ACT I
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT II
+">ACT II
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT III
+">ACT III
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT IV
+">ACT IV
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT V
+">ACT V
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT I
+">ACT I
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT II
+">ACT II
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT III
+">ACT III
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT IV
+">ACT IV
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT V
+">ACT V
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT I
+">ACT I
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT II
+">ACT II
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT III
+">ACT III
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT IV
+">ACT IV
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT V
+">ACT V
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT I
+">ACT I
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT II
+">ACT II
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT III
+">ACT III
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT IV
+">ACT IV
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT V
+">ACT V
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT I. SCENE I. Venice. A street.
+">ACT I. SCENE I. Venice. A street.
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT II. SCENE I. A seaport in Cyprus. An open place near the quay.
+">ACT II. SCENE I. A seaport in Cyprus. An open place near the quay.
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT III. SCENE I. Before the castle.
+">ACT III. SCENE I. Before the castle.
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT IV. SCENE I. Cyprus. Before the castle.
+">ACT IV. SCENE I. Cyprus. Before the castle.
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT V. SCENE I. Cyprus. A street.
+">ACT V. SCENE I. Cyprus. A street.
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT I
+">ACT I
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT II
+">ACT II
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT III
+">ACT III
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT IV
+">ACT IV
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT V
+">ACT V
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT I
+">ACT I
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT II
+">ACT II
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT III
+">ACT III
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT IV
+">ACT IV
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT V
+">ACT V
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT I. SCENE I. London. The palace
+">ACT I. SCENE I. London. The palace
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT II. SCENE I. London. Ely House
+">ACT II. SCENE I. London. Ely House
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT III. SCENE I. BOLINGBROKE'S camp at Bristol
+">ACT III. SCENE I. BOLINGBROKE'S camp at Bristol
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT IV. SCENE 1. Westminster Hall
+">ACT IV. SCENE 1. Westminster Hall
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT V. SCENE 1. London. A street leading to the Tower
+">ACT V. SCENE 1. London. A street leading to the Tower
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT I. SCENE 1.
+">ACT I. SCENE 1.
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT II. SCENE 1.
+">ACT II. SCENE 1.
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT III. SCENE 1.
+">ACT III. SCENE 1.
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT IV. SCENE 1.
+">ACT IV. SCENE 1.
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT V. SCENE 1.
+">ACT V. SCENE 1.
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT I
+">ACT I
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT II
+">ACT II
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT III
+">ACT III
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT IV
+">ACT IV
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT V
+">ACT V
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT I
+">ACT I
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT II
+">ACT II
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT III
+">ACT III
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT IV
+">ACT IV
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT V
+">ACT V
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT I
+">ACT I
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT II
+">ACT II
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT III
+">ACT III
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT IV
+">ACT IV
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT V
+">ACT V
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT I
+">ACT I
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT II
+">ACT II
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT III
+">ACT III
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT IV
+">ACT IV
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT V
+">ACT V
+<\a><\li><li class="nav-item "><a class="nav-link" href="#THE TEMPEST ACT I. SCENE 1
+">THE TEMPEST ACT I. SCENE 1
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT II. SCENE 1
+">ACT II. SCENE 1
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT III. SCENE 1
+">ACT III. SCENE 1
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT IV. SCENE 1
+">ACT IV. SCENE 1
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT V. SCENE 1
+">ACT V. SCENE 1
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT I. SCENE I. Athens. TIMON'S house
+">ACT I. SCENE I. Athens. TIMON'S house
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT II. SCENE I. A SENATOR'S house
+">ACT II. SCENE I. A SENATOR'S house
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT III. SCENE I. LUCULLUS' house
+">ACT III. SCENE I. LUCULLUS' house
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT IV. SCENE I. Without the walls of Athens
+">ACT IV. SCENE I. Without the walls of Athens
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT V. SCENE I. The woods. Before TIMON's cave
+">ACT V. SCENE I. The woods. Before TIMON's cave
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT 1. SCENE I. Rome. Before the Capitol
+">ACT 1. SCENE I. Rome. Before the Capitol
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT II. SCENE I. Rome. Before the palace
+">ACT II. SCENE I. Rome. Before the palace
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT III. SCENE I. Rome. A street
+">ACT III. SCENE I. Rome. A street
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT IV. SCENE I. Rome. TITUS' garden
+">ACT IV. SCENE I. Rome. TITUS' garden
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT V. SCENE I. Plains near Rome
+">ACT V. SCENE I. Plains near Rome
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT I
+">ACT I
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT II
+">ACT II
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT III
+">ACT III
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT IV
+">ACT IV
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT V
+">ACT V
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT I
+">ACT I
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT II
+">ACT II
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT III
+">ACT III
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT IV
+">ACT IV
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT V
+">ACT V
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT I
+">ACT I
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT II
+">ACT II
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT III
+">ACT III
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT IV
+">ACT IV
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT V
+">ACT V
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT I.
+">ACT I.
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT II.
+">ACT II.
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT III.
+">ACT III.
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT IV.
+">ACT IV.
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT V.
+">ACT V.
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT I. SCENE I. Verona. An open place
+">ACT I. SCENE I. Verona. An open place
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT II. SCENE I. Milan. The DUKE'S palace
+">ACT II. SCENE I. Milan. The DUKE'S palace
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT III. SCENE I. Milan. The DUKE'S palace
+">ACT III. SCENE I. Milan. The DUKE'S palace
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT IV. SCENE I. The frontiers of Mantua. A forest
+">ACT IV. SCENE I. The frontiers of Mantua. A forest
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT V. SCENE I. Milan. An abbey
+">ACT V. SCENE I. Milan. An abbey
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT I
+">ACT I
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT II
+">ACT II
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT III
+">ACT III
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT IV
+">ACT IV
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT V
+">ACT V
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT I. SCENE I. Sicilia. The palace of LEONTES
+">ACT I. SCENE I. Sicilia. The palace of LEONTES
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT II. SCENE I. Sicilia. The palace of LEONTES
+">ACT II. SCENE I. Sicilia. The palace of LEONTES
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT III. SCENE I. Sicilia. On the road to the Capital
+">ACT III. SCENE I. Sicilia. On the road to the Capital
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT IV. SCENE I.
+">ACT IV. SCENE I.
+<\a><\li><li class="nav-item "><a class="nav-link" href="#ACT V. SCENE I. Sicilia. The palace of LEONTES
+">ACT V. SCENE I. Sicilia. The palace of LEONTES
+<\a><\li>
