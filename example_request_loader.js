@@ -25,8 +25,8 @@ var number = 0;
 
 var info = new Array();
 
-var names = ["a","b","c","d","e"];
-var usernames = ["f","g","h","i","j"];
+var names = ["Fix titles in sections ACTI. Scene II.", "Fix gramatical anomaly", "Awkward comma placement", "Weird Title Issues", "Fix for inconsistent dashes"];
+var usernames = ["professor a", "professor b", "professor c", "professor d", "professor e"];
 var loremIpsum = "lorem ipsum dolor itum";
 var tvotes = [99,20,13,40,80];
 var dates = [1,8,2,13,12];
