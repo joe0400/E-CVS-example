@@ -59,7 +59,7 @@ class information{
 	
 		this.generate = function (){
 			var vr = Number(this.viewVotes()/attributors).toLocaleString(undefined,{style: 'percent', minimumFractionDigits:2});
-			var dat = "<li class=\"list-group-item\"><div class=\"d-flex w-100 justify-content-between\"><h5 class=\"mb-1\">%s</h5><small class=\"text-right text-nowrap\">%s days ago <u class=\"text-warning\" id=\"n%s\" style=\"text-decoration: none !important;\">%s</u></small></div><small> @%s </small><p class=\"mb-1\">%s</p><div class=\"btn-group float-right\" role=\"group\" aria-label=\"Support\"><button type=\"button\" class=\"btn btn-primary\" data-toggle=\"button\" onclick=\"info[%s].increment()\" aria-pressed=\"false\" autocomplete=\"off\" id=\"b%s\">Support</button></div></li>";
+			var dat = "<li class=\"list-group-item\"><div class=\"d-flex w-100 justify-content-between\"><h5 class=\"mb-1\"><a data-toggle=\"modal\" data-target=\"#flex-modal\">%s</a></h5><small class=\"text-right text-nowrap\">%s days ago <u class=\"text-warning\" id=\"n%s\" style=\"text-decoration: none !important;\">%s</u></small></div><small> @%s </small><p class=\"mb-1\">%s</p><div class=\"btn-group float-right\" role=\"group\" aria-label=\"Support\"><button type=\"button\" class=\"btn btn-primary\" data-toggle=\"button\" onclick=\"info[%s].increment()\" aria-pressed=\"false\" autocomplete=\"off\" id=\"b%s\">Support</button></div></li>";
 			document.getElementById("inner lists").innerHTML +=  parse(dat,this.name,this.date.toString(),this.number.toString(),vr.toString(),this.username,this.description_text,number.toString(),"b"+number.toString());
 
 		};
